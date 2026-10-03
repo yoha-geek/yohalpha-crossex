@@ -1,0 +1,12 @@
+{
+  "schema_version": "1.0",
+  "id": "yohalpha_crossex.meta.repo_topology",
+  "record_type": "knowledge",
+  "title": "yohalpha-crossex repo topology",
+  "summary": "yohalpha-crossex",
+  "facts": [
+    "Canonical Python package root: yohalpha_crossex/",
+    "Canonical package-local tests root: yohalpha_crossex/tests/",
+    "Repo-local agent knowledge entrypoint: agent_kb/index.json"
+  ]
+}

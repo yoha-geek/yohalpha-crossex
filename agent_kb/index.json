@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "kb_id": "yohalpha_crossex.agent_kb",
+  "repo": "yohalpha-crossex",
+  "repo_role": "yohalpha-crossex",
+  "platform_scope": [
+    "linux"
+  ],
+  "records": [
+    {
+      "id": "yohalpha_crossex.meta.repo_topology",
+      "path": "000_repo_topology.json",
+      "record_type": "knowledge",
+      "title": "yohalpha-crossex repo topology"
+    }
+  ]
+}
